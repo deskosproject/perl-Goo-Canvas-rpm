@@ -1,6 +1,6 @@
 Name:           perl-Goo-Canvas
 Version:        0.06
-Release:        20%{?dist}
+Release:        21%{?dist}
 Summary:        Perl interface to the GooCanvas
 License:        GPL+ or Artistic
 Group:          Development/Libraries
@@ -70,6 +70,9 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/auto/*
 
 %changelog
+* Fri Nov 25 2016 Ricardo Arguello <rarguello@deskosproject.org> - 0.06-21
+- Rebuilt for DeskOS
+
 * Sat Aug 03 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.06-20
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_20_Mass_Rebuild
 

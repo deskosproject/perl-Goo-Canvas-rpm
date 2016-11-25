@@ -1,0 +1,6 @@
+= DeskOS: perl-Goo-Canvas RPM
+
+This is the _perl-Goo-Canvas_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/perl-Goo-Canvas-0.06-20.el7.nux.src.rpm[perl-Goo-Canvas-0.06-20.el7.nux.src.rpm]
